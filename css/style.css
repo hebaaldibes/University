@@ -1,0 +1,204 @@
+body {
+  background: #fff;
+  font-family: "Rubik", arial, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 2;
+  color: gray;
+}
+h1, h2, h3, h4, h5 {
+  color: #000;
+  font-family: "Rubik", arial, sans-serif;
+  font-weight: 300;
+}
+header {
+  width: 100%;
+  height: 75px;
+  z-index: 5;
+  box-shadow: 0 5px 80px -10px;
+}
+header > div{
+	line-height: 75px;
+	font-size: 16px;
+}
+#logo{
+	padding: 27px 30px;
+	letter-spacing: 3px;	
+}
+#nv1{
+	line-height: 75px; 
+}
+#nav1 a{
+	padding: 0 10px;
+	text-align: left;
+	color: #000;
+}
+#courses{
+	   background-size: cover;
+       background-position: center center;
+       height: 750px;
+       text-align: center;
+       padding-top: 200px;
+       padding-left: 50px;
+       }
+#courses h2, #courses p {
+  color: #fff;
+  line-height: 1.5;
+}
+#courses p{
+	padding: 50px 200px 0px;
+}
+.rig{
+	margin-left: 100px;
+}
+#courses h2 {
+  font-size: 45px;
+  font-weight: 300;
+  line-height: 1.2;
+  margin-bottom: 30px;
+  padding-left: 110px;
+}
+#courses .btn,#s2 .btn, .popular .btn {
+  box-shadow: 0 5px 20px -5px ;
+  background: #11cbd7 ;
+  border: 2px solid transparent;
+  color: #fff;
+}
+#courses .btn:hover{
+  box-shadow: none ;
+  background: none ;
+  color: #fff;
+  border: 2px solid #fff;
+}
+.white{
+  background-color: #fff;
+  height: 80px;  
+}
+.white .fields{
+  padding-top: 15px;
+}
+form{
+	margin-left:  100px;
+}
+form .form-control-lg{
+  padding-left: 0px;
+}
+#s2 .btn:hover , .popular .btn:hover {
+  box-shadow: none ;
+  background: none ;
+  color: #000;
+  border: 2px solid #11cbd7;
+}
+.welcome{
+	padding: 100px;
+}
+#s2 h2{
+	color: #11cbd7;
+	font-size:40px;
+}
+#s3 h3{
+	font-size: 20px;
+}
+.flaticon-professor,.flaticon-diploma, .flaticon-student, .flaticon-book,.flaticon-mortarboard,.flaticon-books,.flaticon-university{
+	font-size: 50px;
+	margin: 10px;
+}
+#s4{
+  line-height: 20px;
+  padding: 80px;
+  margin-bottom: 0px;
+}
+#s4 h2{
+color: #11cbd7;
+font-size: 40px;
+}
+#s4 .education{
+  padding-left:100px;
+}
+#s4 .mb-5{
+  line-height: 30px;
+}
+.education p{
+  width: 100%;
+
+}
+.left,.right{
+  margin-right: 50px;
+  text-align: justify;
+}
+.left p,.right p{
+  padding-left: 5px;
+}
+.popular{
+  margin-top: 200px;
+  text-align: center;
+}
+.popular p{
+  padding: 0 220px;
+}
+.popular .btn{
+  font-size: 18px;
+  padding: 10px 25px;
+}
+.popular .btn i{
+font-size: 14px;
+}
+.cards{
+  padding-top: 50px;
+}
+.cards .card{
+box-shadow: 0 5px 10px -5px ; 
+}
+.card .text-right span{
+  box-shadow: 0 5px 20px -5px ;
+  background: #11cbd7 ;
+  padding: 5px;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  color: #fff;
+}
+.card-title a{
+  color:#000;
+}
+.card-title a:hover{
+  color: #11cbd7 ;
+  text-decoration: none;
+}
+.teachers h2,.blog h2{
+  font-size: 30px;
+  color: #11cbd7 ;
+}
+.boxs{
+  margin:75px;
+}
+.box{
+  height: 400px;
+  background-image: linear-gradient(#18C43A,#04360E);
+  line-height: 5px;
+  padding: 320px 20px 0px;
+ box-shadow: 0 5px 20px -5px ;
+}
+.t1 .card{
+  box-shadow: 0 10px 30px -5px #C3C9C9 ;
+}
+.t1 .text{
+  padding: 22px;
+}
+.t2 .col-md-12{
+  font-size: 12px;
+  }
+ .t2 img{
+  box-shadow: 0 10px 30px -5px #C3C9C9 ;
+  
+   }
+  .t1 h3,.t2 h3{
+    font-size: 18px;
+         }
+         #s6 .b{
+          background-color: #11cbd7;
+          height: 250px;
+          padding-top: 15px;
+         }
+footer ul{
+ list-style-type: none;
+}
